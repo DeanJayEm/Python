@@ -17,6 +17,9 @@ square root: sqrt(n)
 pi: 3.141......
 """
 
+#edited on June 18, 2017
+#edited by Molina, Joshua D
+
 import math
 
 def main():
